@@ -1,13 +1,9 @@
 Package: distAAnce
-Title: An Amazing Shiny App
+Title: Amino Acid Distance Calculatro using Grantham Scores
 Version: 0.0.0.9000
-Authors@R: 
-    person(given = "firstname",
-           family = "lastname",
-           role = c("aut", "cre"),
-           email = "your@email.com")
-Description: What the package does (one paragraph).
-License: What license is it under?
+Authors@R: person('Ali Sajid', 'Imami', email = 'Ali.Sajid.Imami@gmail.com', role = c('cre', 'aut'))
+Description: Use the Grantham Distances to predict the effect of an amino acid substitution in a given sequence.
+License: GPL-3
 Imports: 
     config,
     golem,
